@@ -18,16 +18,16 @@ int main()
     int key{};
     std::cin>>key;
     //now array is filled
-
-    bool flag{};
-    for(int i{};i<n;i++)
+    int i{};
+    for(i;i<n;i++)
     {
-        if(key == arr[i])
+        if(key == arr[i]) 
         {
-            flag = true;
+            std::cout<<"Element found at :"<<i<<" position.\n";
+            break;
         }
+        
     }
-    if(flag) std::cout<<"Element found";
-    else    std::cout<<"Element doesn't exist";
+    if(i == n)  std::cout<<"Element doesn't exist";
     return 0;
 }
