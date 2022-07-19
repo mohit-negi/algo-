@@ -1,0 +1,1 @@
+{"name":"Local: piyushAndMagicalPark","url":"/home/arduousendeavor/repos/algo-/02Array2d/piyushAndMagicalPark.cpp","tests":[{"id":1658205721216,"input":"4 4 5 20\n. . * .\n. # . .\n* * . .\n. # * *","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/arduousendeavor/repos/algo-/02Array2d/piyushAndMagicalPark.cpp","group":"local","local":true}

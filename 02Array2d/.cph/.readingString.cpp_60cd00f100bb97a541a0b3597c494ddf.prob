@@ -1,0 +1,1 @@
+{"name":"Local: readingString","url":"/home/arduousendeavor/repos/algo-/02Array2d/readingString.cpp","tests":[{"id":1658214917158,"input":"2\nhello\nworld\n\n","output":"hello \nworld"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/arduousendeavor/repos/algo-/02Array2d/readingString.cpp","group":"local","local":true}
