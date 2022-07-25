@@ -1,0 +1,1 @@
+{"name":"Local: largestString","url":"/home/arduousendeavor/repos/algo-/03CharArray/largestString.cpp","tests":[{"id":1658733733382,"input":"2\nhello \nworlds","output":"worlds"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/arduousendeavor/repos/algo-/03CharArray/largestString.cpp","group":"local","local":true}
